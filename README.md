@@ -2,7 +2,7 @@
 
 <br/>
 <p>
-A Full Stack JavaScript Developer 🚀 I consider myself as a skilled JS Developer with good debugging skills.
+A Full-Stack Developer 🚀 I consider myself as a skilled JS Developer with good debugging skills.
 <br/>
 Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
 <br/>
